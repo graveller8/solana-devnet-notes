@@ -10,3 +10,4 @@ This repository contains my learning notes about:
 - SPL tokens
 
 Currently learning Solana ecosystem and testing devnet tools.
+Additional Solana development notes and experiments.
